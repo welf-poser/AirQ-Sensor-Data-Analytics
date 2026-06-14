@@ -1,4 +1,5 @@
 # AirQ Sensor Data Analytics
+<img width="859" height="504" alt="image" src="https://github.com/user-attachments/assets/5e6bb458-902f-4f83-b1df-ead5a4e23658" />
 
 AirQ Sensor Data Analytics is an academic data engineering and analytics project built around an air-Q air quality sensor.
 
@@ -157,6 +158,8 @@ The dataset documentation contains known anomalies that should be considered dur
 * Large fire near the measurement location
 
 These events are relevant when interpreting outliers, sudden changes or unusual correlations in the sensor measurements.
+<img width="989" height="639" alt="image" src="https://github.com/user-attachments/assets/67063393-340e-423b-b796-e777aae166ae" />
+
 
 ## Project status
 
